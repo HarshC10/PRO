@@ -1,0 +1,29 @@
+body{
+ text-align:center;
+  background: linear-gradient( #E1BEE7 0%,#90CAF9 100%);
+ background-repeat:no-repeat ;
+ background-color: cornsilk;
+}
+#sup{ 
+ width:100px 
+}
+p{
+ font-size:26px;
+  color:black;
+}
+h1{
+font-weight: bold;
+font-size:30px;     
+}
+#su{
+ width:100px;   
+}
+.links {
+    float: left;
+    color: cornsilk;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+}
